@@ -1,0 +1,35 @@
+
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding-top: 2px;
+    
+}
+
+table{
+    background-color: white;
+    width: 400px;
+}
+
+.conteudo{
+    text-align: left;
+}
+
+.acoes{
+    text-align: center;
+}
+
+
+
+th{
+    background-color: rgb(63, 63, 214);
+    color: white;
+}
+tr:hover{
+    background-color: rgb(91, 146, 146);
+}
+
+table>tbody>tr>td>a{
+    margin-right: 5px;
+}

@@ -1,0 +1,28 @@
+
+
+
+nav{
+	background-color: rgb(5, 5, 44) ;
+	width: 600px;
+	border-radius: 20px;
+	margin-left: 100px;
+}
+
+.li{
+	display: inline-block;
+}
+
+.a{	
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	padding: 15px;
+
+}
+
+.a:hover{
+	background-color: red;
+}
+
+
+

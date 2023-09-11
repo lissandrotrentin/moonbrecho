@@ -1,0 +1,26 @@
+nav{
+	background-color:  rgba(0, 0, 0, 0.781); ;
+	width: 1350px;
+    padding: auto;
+    margin-top: 0%;
+    margin-left: 0%;
+    
+	
+}
+
+.li{
+	display: inline-block;
+}
+
+.a{	
+    width: 60px;
+	display: inline-block;
+	color: white;
+	text-decoration: none;
+	padding: 25px;
+
+}
+
+.a:hover{
+	background-color: red;
+}
